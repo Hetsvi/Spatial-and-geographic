@@ -1,1 +1,1 @@
-
+We would like to explore the different breeds of dogs in New York City. One question we would like to answer is which breeds of dogs are the most popular in each zip code of New York City and compare the breed with the median income of that zip code. Another question we would like to answer is whether the most popular breed of dog in a certain zip code is in any way correlated with the amount of crime in that zip code. Would areas with more crime have more of a certain breed of dog or larger dogs in general?
