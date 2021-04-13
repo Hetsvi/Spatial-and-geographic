@@ -1,1 +1,2 @@
-
+Is it more or less likely to be injured in a bike-related accident if you are on a bike path or not? How would the results differ for injuries of different severity, by zip codes, and by the type of other party in the accident? In which parts of the city is it more likely to get into an alcohol-related accident? How can you explain that using additional statistics by zip codes, for example, by the number of alcohol-serving bars in the zip code?
+Let's answer these questions using Arcgis API for Python. 
